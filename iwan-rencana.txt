@@ -1,0 +1,6 @@
+RENCANA KONTEN SDATA
+- mau bikin konten iqg hackerrank
+  -mau bikin yg sql
+  -mau bikin mongodb
+- mau bikin algoritma dan strukdata
+- ngvlog gaess
