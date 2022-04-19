@@ -3,8 +3,9 @@ RENCANA KONTEN SDATA
   -mau bikin yg sql
   -mau bikin mongodb
   - mau fund math
-- mau bikin algoritma dan strukdata
-  - bikin algo hash sha
-  - bikin mrgrsort
-  - jwab olim
+- mau bikin algoritma dan strukdata 
+ - bikin algo hash sha
+ - bikin mrgrsort
+- ngvlog gaess
+- bahas masalah ttg dunia kerja
 
