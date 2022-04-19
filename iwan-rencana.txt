@@ -4,4 +4,7 @@ RENCANA KONTEN SDATA
   -mau bikin mongodb
   - mau fund math
 - mau bikin algoritma dan strukdata
-- ngvlog gaess
+  - bikin algo hash sha
+  - bikin mrgrsort
+  - jwab olim
+
